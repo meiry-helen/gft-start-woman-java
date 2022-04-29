@@ -1,0 +1,11 @@
+Passo a passo para puxar e enviar arquivos ao GitHub por meio do Git:
+
+--> Crie um repositório no GitHub;
+--> Clone o repositório para um diretório local. Para tanto, utilize:
+	- Git Bash na pasta para onde o repositório deverá ser clonado;
+	- Git clone + URL do repositório;
+	- CD + nome do diretório;
+	- Git status para verificar se há alterações ou commits a serem feitos;
+	- Git add . para adicionar as novas alterações à árvore;
+	- Git commit -m "descrição das alterações"
+	- Git push origin main para empurrar o novo commit para o github.
