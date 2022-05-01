@@ -7,3 +7,4 @@ Com este repositório, tenho o objetivo de organizar as minhas anotações e có
 
 ## Links úteis:
 - [Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
+- [Atalhos IntelliJ English](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
