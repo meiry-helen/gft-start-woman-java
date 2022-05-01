@@ -4,3 +4,6 @@ Bootcamp da DIO + GFT
 
 
 Com este repositório, tenho o objetivo de organizar as minhas anotações e códigos desenvolvidos durante o bootcamp da DIO + GFT.
+
+## Links úteis:
+- [Atalhos IntelliJ](http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea)
